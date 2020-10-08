@@ -1,0 +1,6 @@
+C:\Users\TheOnly_Anti\Documents\GoDot Projects\LoggerProject\.mono\temp\obj\Tools\LoggerThingThatHasNoName.csprojAssemblyReference.cache
+C:\Users\TheOnly_Anti\Documents\GoDot Projects\LoggerProject\.mono\temp\obj\Tools\LoggerThingThatHasNoName.csproj.CoreCompileInputs.cache
+C:\Users\TheOnly_Anti\Documents\GoDot Projects\LoggerProject\.mono\temp\bin\Tools\LoggerThingThatHasNoName.dll
+C:\Users\TheOnly_Anti\Documents\GoDot Projects\LoggerProject\.mono\temp\bin\Tools\LoggerThingThatHasNoName.pdb
+C:\Users\TheOnly_Anti\Documents\GoDot Projects\LoggerProject\.mono\temp\obj\Tools\LoggerThingThatHasNoName.dll
+C:\Users\TheOnly_Anti\Documents\GoDot Projects\LoggerProject\.mono\temp\obj\Tools\LoggerThingThatHasNoName.pdb
